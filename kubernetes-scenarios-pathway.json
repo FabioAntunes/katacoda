@@ -1,0 +1,11 @@
+{
+  "title": "Kubernetes scenarios",
+  "description": "In this course you will be debugging and fixing a couple of real case scenarios.",
+  "courses": [
+    {
+      "course_id": "scenario-1",
+      "title": "The CrashloopBackOff",
+      "description": "You have deployed your app, but unfortunately your app never starts."
+    }
+  ]
+}
